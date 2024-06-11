@@ -7,3 +7,9 @@
     height: 30px;
 
 }
+
+.contacts-page-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
